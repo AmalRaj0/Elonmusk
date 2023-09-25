@@ -24,7 +24,7 @@ flex-direction: column;
 .navclass ul{
     display: flex;
     justify-content:end;
-    padding-right:90px ; 
+    padding-right:91px ; 
     /* transition: all 2s; */
    
 }
