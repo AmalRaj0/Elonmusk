@@ -44,8 +44,8 @@ flex-direction: column;
     text-decoration: underline;
     /* font-size: medium; */
 }
-header::before{
-    background-image:url('https://images.pexels.com/photos/296084/pexels-photo-296084.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1') ;
+header::after{
+    background-image:url('https://images.pexels.com/photos/296084/pexels-photo-296084.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
     content:"";
     z-index:-1 ;
     height:1000px;
